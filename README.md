@@ -29,40 +29,10 @@ They want to identify key factors influencing customer decisions, such as:
 - Transformed data for analysis  
 - Created new features for better insights  
 
----
-
-### 🔹 2. Data Analysis (SQL)
-- Structured data into relational format  
-- Performed queries to analyze:
-  - Customer segments  
-  - Purchase behavior  
-  - Repeat customers  
-  - Sales trends  
-
----
-
-### 🔹 3. Visualization & Insights (Power BI)
-- Built an interactive dashboard  
-- Visualized key metrics:
-  - Sales trends  
-  - Category performance  
-  - Customer behavior  
-- Enabled data-driven decision making  
-
----
-
-### 🔹 4. Report & Presentation
-- Documented key findings and insights  
-- Provided actionable business recommendations  
-- Created a presentation for stakeholders  
-
----
 
 ## 🛠️ Tools & Technologies Used
 
 - Python (Pandas, NumPy)
-- SQL
-- Power BI
 - Excel
 
 ---
