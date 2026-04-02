@@ -74,5 +74,3 @@ They want to identify key factors influencing customer decisions, such as:
 - Provided recommendations to improve sales and engagement  
 
 ---
-
-## 📊 Project Structure
