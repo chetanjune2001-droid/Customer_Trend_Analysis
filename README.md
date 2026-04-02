@@ -32,7 +32,7 @@ They want to identify key factors influencing customer decisions, such as:
 
 ## 🛠️ Tools & Technologies Used
 
-- Python (Pandas, NumPy)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Excel
 
 ---
